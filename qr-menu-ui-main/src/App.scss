@@ -1,0 +1,12 @@
+@import '~bootstrap/scss/bootstrap';
+@import './styles/styles.scss';
+@import './styles/variables.scss';
+html,
+body {
+	font-family: 'Lato', sans-serif;
+	background-color: #f8f8f8;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
